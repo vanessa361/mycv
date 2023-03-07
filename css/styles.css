@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Hind Siliguri', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #DE8A6F;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFB780;
 }
 
 /* Styles for lists in the document */
