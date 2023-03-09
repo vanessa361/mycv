@@ -14,7 +14,8 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #E5804B;
+    background-color: #A64614;
+	color: white;
 }
 
 .resume-main {
