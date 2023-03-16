@@ -50,3 +50,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.purple-text {
+	color: #4d137c;
+}	
